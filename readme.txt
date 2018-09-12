@@ -4,3 +4,4 @@ git is goods.
 i want to go home
 change one
 change two and three
+change six
